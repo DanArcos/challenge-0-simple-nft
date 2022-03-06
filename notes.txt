@@ -1,3 +1,8 @@
 These notes are for me to take during this excercise.
 
 1) Upload a copy of this to github. Parts of the previous version of this were deleted.
+2) Change testnet to rinkeby
+3) Generate account address: (0xcb8f81ba163cbbEd4b8A5dc84d59b8F83fDDed9C)
+4) Deployer address: 0xd17fa6eb65945bfae5b635869c9fadde8dc8053c
+
+URL: http://hard-to-find-plantation.surge.sh/
